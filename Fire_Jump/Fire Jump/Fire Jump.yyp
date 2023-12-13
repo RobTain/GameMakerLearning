@@ -3,6 +3,7 @@
   "resourceVersion": "1.6",
   "name": "Fire Jump",
   "resources": [
+    {"id":{"name":"obj_street","path":"objects/obj_street/obj_street.yy",},"order":3,},
     {"id":{"name":"spr_street","path":"sprites/spr_street/spr_street.yy",},"order":3,},
     {"id":{"name":"spr_player_air","path":"sprites/spr_player_air/spr_player_air.yy",},"order":0,},
     {"id":{"name":"obj_move_parent","path":"objects/obj_move_parent/obj_move_parent.yy",},"order":2,},

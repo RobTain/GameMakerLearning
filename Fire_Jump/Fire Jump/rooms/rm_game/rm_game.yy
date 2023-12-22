@@ -21,6 +21,7 @@
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritVisibility":true,"inheritSubLayers":true,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Spawn","instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_50CA1025","properties":[],"isDnd":false,"objectId":{"name":"obj_score_rescue","path":"objects/obj_score_rescue/obj_score_rescue.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":896.0,"y":64.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_4F3EA89A","properties":[],"isDnd":false,"objectId":{"name":"obj_score_height","path":"objects/obj_score_height/obj_score_height.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":896.0,"y":160.0,},
       ],"visible":true,"depth":100,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritVisibility":true,"inheritSubLayers":true,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Windows","instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_10680DB9","properties":[],"isDnd":false,"objectId":{"name":"obj_street","path":"objects/obj_street/obj_street.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":0.0,"y":1184.0,},
@@ -40,6 +41,7 @@
     {"name":"inst_4136875F","path":"rooms/rm_game/rm_game.yy",},
     {"name":"inst_10680DB9","path":"rooms/rm_game/rm_game.yy",},
     {"name":"inst_50CA1025","path":"rooms/rm_game/rm_game.yy",},
+    {"name":"inst_4F3EA89A","path":"rooms/rm_game/rm_game.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,

@@ -14,6 +14,14 @@ if(rescued == false)
 	/// @DnDArgument : "var" "rescued"
 	rescued += true;
 
+	/// @DnDAction : YoYo Games.Audio.Play_Audio
+	/// @DnDVersion : 1.1
+	/// @DnDHash : 707498DE
+	/// @DnDParent : 184BCC03
+	/// @DnDArgument : "soundid" "snd_civ_rescue"
+	/// @DnDSaveInfo : "soundid" "snd_civ_rescue"
+	audio_play_sound(snd_civ_rescue, 0, 0, 1.0, undefined, 1.0);
+
 	/// @DnDAction : YoYo Games.Common.Set_Global
 	/// @DnDVersion : 1
 	/// @DnDHash : 35D25109

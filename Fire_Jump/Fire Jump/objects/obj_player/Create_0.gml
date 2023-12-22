@@ -9,3 +9,9 @@ vspeed = -35;
 /// @DnDVersion : 1
 /// @DnDHash : 0725F19A
 gravity = 1;
+
+/// @DnDAction : YoYo Games.Common.Set_Global
+/// @DnDVersion : 1
+/// @DnDHash : 62369981
+/// @DnDArgument : "var" "score_rescue"
+global.score_rescue = 0;
